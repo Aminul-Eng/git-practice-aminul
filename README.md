@@ -28,6 +28,13 @@ The project demonstrates basic Git and GitHub operations and a simple Python cal
 - Git
 - GitHub
 
+## Usage
+
+Run the calculator program from the project root:
+
+```bash
+py src/main.py
+
 ## Project Structure
 
 ```text
